@@ -1,0 +1,6 @@
+
+		  
+	<< Greedy Motif Search -- two implementations >>
+
+       << greedy_motif_search.c - sequential algorithm >>
+      << mpi_greedy_motif_search.c - parallel algorithm >>
